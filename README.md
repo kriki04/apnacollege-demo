@@ -1,4 +1,4 @@
 # apnacollege-demo
 this ia demo repository 
 <br>
-Author- Amith krishna U
+Author- Amith krishna U (codewithkriki)
